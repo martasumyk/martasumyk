@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I`m Marta, a second year IT&Bussiness analysis student at UCU🎓
+
+Passionate about AI, Math and programming🤩
+
+Also, like cycling🚵🏻‍♀️
+
 <!--
 **martasumyk/martasumyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
