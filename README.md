@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Marta, a 3rd-year Applied Sciences student at UCU😀
+I'm Marta, a 4th-year Applied Sciences student at UCU😀
 
 I'm passionate about **Computer Vision**🚀
 
