@@ -1,7 +1,7 @@
 ## Hi there! 👋
 I'm Marta, a 4th-year Applied Sciences student at UCU😀
 
-I'm passionate about **Computer Vision**🚀
+I'm passionate about **Computer Vision** and **Agentic AI**🚀
 
 
 
